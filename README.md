@@ -1,7 +1,7 @@
 # Portal Epidemiológico e Dashboard de Acidentes por Escorpiões em Cotia
 
 ## 📌 Visão Geral do Projeto
-Este projeto foi desenvolvido como um produto integrador focado em **Ações de Ciência, Tecnologia e Inovação aplicadas à Saúde Pública** (alinhado aos ODS 3 e 11). Consiste em um portal público e um pipeline de dados reprodutível para monitoramento, análise estatística e visualização de acidentes escorpiônicos no município de Cotia (SP) e cidades espelho.
+Esta sendo desenvolvido como um produto integrador focado em **Ações de Ciência, Tecnologia e Inovação aplicadas à Saúde Pública** (alinhado aos ODS 3 e 11). Consiste em um portal público e um pipeline de dados reprodutível para monitoramento, análise estatística e visualização de acidentes escorpiônicos no município de Cotia (SP) e cidades espelho.
 
 A solução integra dados brutos de notificações epidemiológicas inspiradas no padrão do **SINAN/DATASUS** combinados a variáveis climáticas locais para subsidiar a tomada de decisão da Vigilância Ambiental e Epidemiológica.
 
